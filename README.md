@@ -1,4 +1,4 @@
-# To-Do Project
+# To-Do V2
 
 This is a simple To-Do application built with React that helps you manage your daily tasks efficiently. The app uses the browser's localStorage to save your tasks, so they remain even after refreshing the page or closing the browser.
 
@@ -11,13 +11,9 @@ This is a simple To-Do application built with React that helps you manage your d
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
+- Redux & Redux Toolkit
+- Feather Icons for icons
 - **localStorage**: To store tasks locally in the browser.
-
-## How to Use
-
-1. Enter your task in the input field and press "Add" to save it.
-2. Click on a task to mark it as completed or pending.
-3. Use the edit or delete buttons to manage your tasks.
 
 ## Getting Started
 
